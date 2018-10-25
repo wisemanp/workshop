@@ -54,24 +54,22 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 We will have time for introductory talks (25' + 5'), discussion on walking excursions. 
 
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
-|             | Monday January 21st  | |             |Tuesday January 22nd | |             |Wednesday January 23rd|
+|             |  Monday 21st         | |             |  Tuesday 22nd       | |             |  Wednesday 23rd     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
-| 08:45-09:00 | Breakfast            | | 08:45-09:00 | Breakfast           | | 08:45-09:00 | Breakfast           |
-| 09:00-09:15 | Welcome/introduction | | 09:00-09:30 | Talk                | | 09:00-09:30 | Talk                |
-| 09:15-09:45 | Talk                 | | 09:30-10:00 | Talk                | | 09:30-10:00 | Talk                |
-| 09:45-10:15 | Talk                 | | 10:00-10:30 | Talk                | | 10:00-10:30 | Discussion          |
-| 10:15-10:45 | Talk                 | | 10:30-10:45 | Coffee              | | 10:30-10:45 | coffee              |
-| 10:45-11:00 | Coffee               | | 10:45-11:15 | Talk                | | 10:45-11:15 | Talk                |
-| 11:00-12:00 | Discussion           | | 11:15-12:00 | Discussion          | | 11:15-12:00 | Discussion          |
-| 12:00-13:15 | Lunch                | | 12:00-13:00 | Lunch               | | 12:00-13:00 | Public talk + Lunch |
-| 13:15-13:45 | Talk                 | | 13:00-13:30 | Talk                | | 13:00-13:30 | Talk                |
-| 13:45-14:15 | Talk                 | | 13:30-14:00 | Talk                | | 13:30-13:55 | Discussion          |
-| 14:15-15:00 | Discussion           | | 14:00-14:30 | Talk                | | 13:55-14:05 | coffee              |
-| 15:00-15:15 | Coffee               | | 14:30-15:15 | Discussion          | | 14:05-14:30 | Talk                |
-| 15:15-16:30 | WWE                  | | 15:15-15:30 | coffee              | | 14:30-15:00 | Talk                |
-| 16:30-17:00 | Discussion           | | 15:30-16:30 | WWE                 | | 15:00-15:30 | Talk                |
-|             |                      | | 16:30-17:00 | Discussion          | | 15:30-16:30 | Discussion          |
-|             |                      | |             |                     | | 16:30-17:00 | Closure             |
+| 09:00-09:15 | Welcome/introduction | |             |                     | |             |                     |
+| 09:15-09:40 | Talk                 | | 09:00-09:30 | Talk                | | 09:00-09:30 | Talk                |
+| 09:40-10:05 | Talk                 | | 09:30-10:00 | Talk                | | 09:30-10:00 | Talk                |
+| 10:05-10:30 | Talk                 | | 10:00-10:30 | Talk                | | 10:00-10:30 | Talk                |
+| 10:30-10:45 | Coffee               | | 10:30-10:45 | Coffee              | | 10:30-10:45 | coffee              |
+| 10:45-11:15 | Talk                 | | 10:45-11:15 | Talk                | | 10:45-11:15 | Talk                |
+| 11:15-12:00 | Discussion           | | 11:15-12:00 | Discussion          | | 11:15-12:00 | Discussion          |
+| 12:00-13:00 | Lunch                | | 12:00-13:00 | Lunch               | | 12:00-13:00 | Lunch               |
+| 13:00-13:30 | Talk                 | | 13:00-13:30 | Talk                | | 13:00-13:30 | Talk                | 
+| 13:30-14:00 | Talk                 | | 13:30-14:00 | Talk                | | 13:30-14:00 | Talk                |
+| 14:00-15:00 | Discussion           | | 14:00-15:00 | Discussion          | | 14:00-15:00 | Discussion          |
+| 15:00-15:15 | Coffee               | | 15:00-15:15 | coffee              | | 15:15-15:30 | coffee              |
+| 15:15-16:30 | WWE                  | | 15:15-16:30 | WWE                 | | 15:30-17:00 | Closure             |
+| 16:30-17:00 | Discussion           | | 16:30-17:00 | Discussion          | |             |                     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
 | 19:00-      | Workshop dinner      | |             |                     | |             |                     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
