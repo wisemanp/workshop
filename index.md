@@ -12,7 +12,7 @@ In the context of stellar evolution, core-collapse SNe signal the death throes o
 
 The workshop will be held at the Department of Physics and Astronomy of Univertity of Pittsburgh at **Allen Hall**.
 
-[![](https://raw.githubusercontent.com/snianir/webpage/master/map.png)](https://www.google.com/maps/place/123+University+Pl,+Pittsburgh,+PA+15213/@40.4441628,-79.9567206,16.79z/data=!4m13!1m7!3m6!1s0x8834f22915b10c2f:0x4034aeb788d64a44!2s123+University+Pl,+Pittsburgh,+PA+15213!3b1!8m2!3d40.444211!4d-79.9568323!3m4!1s0x8834f22915b10c2f:0x4034aeb788d64a44!8m2!3d40.444211!4d-79.9568323?hl=en)
+[![](https://raw.githubusercontent.com/amusing-muse/workshop/master/map.png)](https://www.google.com/maps/place/Department+of+Physics+and+Astronomy/@40.4440856,-79.9582102,17z/data=!4m5!3m4!1s0x8834f22a1b91901b:0xb323ed98843e3372!8m2!3d40.4446041!4d-79.9582853)
 
 Hotel:
 
