@@ -76,10 +76,10 @@ We will have time for introductory talks (25' + 5'), discussion on walking excur
 | 19:00-      | Workshop dinner      | |             |                     | |             |                     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
 
-### Talks:
+## Talks:
 
-- L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
--
+#### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
+####
 
 ## Contact
 
