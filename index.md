@@ -57,7 +57,7 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 We will have time for introductory talks (25' + 5'), discussion on walking excursions. 
 
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
-|             |  Monday 21st         | |             |  Tuesday 22nd       | |             |  Wednesday 23rd     |
+|             |  Tuesday 22nd        | |             |  Wednesday 23rd     | |             |  Thursday  24th     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
 | 09:00-09:15 | Welcome/introduction | |             |                     | |             |                     |
 | 09:15-09:40 | Talk                 | | 09:00-09:30 | Talk                | | 09:00-09:30 | Talk                |
