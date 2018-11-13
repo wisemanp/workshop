@@ -30,7 +30,7 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 ## Participants
 
 - Joseph Anderson (ESO)
-- (*) Roberto Cid Fernandes (U Sta. Catarina)
+[//]: # (- (*) Roberto Cid Fernandes (U Sta. Catarina))
 - Meghan Cliento (Pitt)
 - (*) Chris D’Andrea (Penn) 
 - Lluıs Galbany (Pitt)
@@ -41,8 +41,9 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 - Joseph Lyman (Warwick)
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
-- (*) Jose Luis Prieto (UDP)
+[//]: # (- (*) Jose Luis Prieto (UDP))
 - Alessandro Razza (UChile-ESO)
+[//]: # (- (*) Michael Rigault (--))
 - Sebastián Sánchez (UNAM)
 - Patricia Schady (UBath)
 - Matthew Smith (Soton)
@@ -54,25 +55,23 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 
 ## Program
 
-We will have time for introductory talks (25' + 5'), discussion on walking excursions. 
+The day will start with an introductory talk about one of the three main topics of the workshop. We will have time for 25' (+5') talks, guided discussion, and walking-working excursions (WWE). During the afternoon coffee we will select some topics for discussion in small groups during the WWE, and that will be later discussed in common.
 
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
 |             |  Tuesday 22nd        | |             |  Wednesday 23rd     | |             |  Thursday  24th     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
-| 09:00-09:15 | Welcome/introduction | |             |                     | |             |                     |
-| 09:15-09:40 | Talk                 | | 09:00-09:30 | Talk                | | 09:00-09:30 | Talk                |
-| 09:40-10:05 | Talk                 | | 09:30-10:00 | Talk                | | 09:30-10:00 | Talk                |
-| 10:05-10:30 | Talk                 | | 10:00-10:30 | Talk                | | 10:00-10:30 | Talk                |
-| 10:30-10:45 | Coffee               | | 10:30-10:45 | Coffee              | | 10:30-10:45 | coffee              |
-| 10:45-11:15 | Talk                 | | 10:45-11:15 | Talk                | | 10:45-11:15 | Talk                |
-| 11:15-12:00 | Discussion           | | 11:15-12:00 | Discussion          | | 11:15-12:00 | Discussion          |
-| 12:00-13:00 | Lunch                | | 12:00-13:00 | Lunch               | | 12:00-13:00 | Lunch               |
-| 13:00-13:30 | Talk                 | | 13:00-13:30 | Talk                | | 13:00-13:30 | Talk                | 
-| 13:30-14:00 | Talk                 | | 13:30-14:00 | Talk                | | 13:30-14:00 | Talk                |
-| 14:00-15:00 | Discussion           | | 14:00-15:00 | Discussion          | | 14:00-15:00 | Discussion          |
-| 15:00-15:15 | Coffee               | | 15:00-15:15 | coffee              | | 15:15-15:30 | coffee              |
-| 15:15-16:30 | WWE                  | | 15:15-16:30 | WWE                 | | 15:30-17:00 | Closure             |
-| 16:30-17:00 | Discussion           | | 16:30-17:00 | Discussion          | |             |                     |
+| 09:00-09:15 | Welcome/introduction | | 09:00-10:00 | Review SNIa env.    | | 09:00-10:00 | Review CC env.      |
+| 09:15-10:15 | Review IFU           | | 10:00-10:15 | Talk                | | 10:00-10:15 | Talk                |
+| 10:15-10:30 | Talk                 | | 10:15-10:30 | Talk                | | 10:15-10:30 | Talk                |
+| 10:30-11:00 | Coffee               | | 10:30-11:00 | Coffee              | | 10:30-11:00 | coffee              |
+| 11:00-11:30 | Talk                 | | 11:00-11:30 | Talk                | | 11:00-11:30 | Talk                |
+| 11:30-12:00 | Talk                 | | 11:30-12:00 | Talk                | | 11:30-12:00 | Talk                |
+| 12:00-13:30 | Lunch                | | 12:00-13:30 | Lunch               | | 12:00-13:30 | Lunch               |
+| 13:30-14:00 | Talk                 | | 13:30-14:00 | Talk                | | 13:30-14:00 | Talk                | 
+| 14:00-14:30 | Talk                 | | 14:00-14:30 | Talk                | | 14:00-14:30 | Discussion          |
+| 14:30-15:00 | Coffee (topic sel.)  | | 14:30-15:00 | Coffee (topic sel.) | | 14:30-15:00 | Coffee              |
+| 15:00-16:30 | WWE                  | | 15:00-16:30 | WWE                 | | 15:00-17:00 | Future directions   |
+| 16:30-17:30 | Discussion           | | 16:30-17:30 | Discussion          | | 17:00-17:15 | Closure             |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
 | 19:00-      | Workshop dinner      | |             |                     | |             |                     |
 |:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
