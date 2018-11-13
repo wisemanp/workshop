@@ -1,4 +1,4 @@
-Welcome to the webpage of the "The Future of SN host galaxy studies" workshop funded by a grant from the Pittsburgh Particle Physics, Astrophysics and Cosmology Center ([PITT-PACC](http://www.physicsandastronomy.pitt.edu/pittpacc)).
+Welcome to the webpage of the "The future of SN host galaxy studies" workshop funded by a grant from the Pittsburgh Particle Physics, Astrophysics and Cosmology Center ([PITT-PACC](http://www.physicsandastronomy.pitt.edu/pittpacc)).
 
 ## Rationale
 
@@ -6,7 +6,7 @@ Supernovae (SNe) are one of the most prominent transient events in astronomy. SN
 
 Type Ia SNe (SNe Ia) are found to explode in both early and late type galaxies, and their presence in the former constrains (at least a fraction of) their progenitors to be evolved systems. However, the exact range of ages from which progenitors explode, the delay time distribution, is not well constrained. Neither is its relation to progenitor metallicity. Indeed, a strong debate exists as to whether SNe Ia arise from accretion onto a single white dwarf (WD) star, or from the coalescence of two WDs. These questions are particularly pertinent given the use of SNe Ia in many other areas of astrophysics. Their use as primary high redshift distance indicators led to the discovery of the accelerated expansion of the Universe, while SNe Ia are the main iron producers in the Universe, hence driving chemical evolution of galaxies. The continued use of SNe Ia in these distinct fields demands a more precise understanding of their progenitors and explosions mechanisms. Investigating how SN Ia properties relate to their host galaxy properties can help she light on the origin of these explosions.
 
-In the context of stellar evolution, core-collapse SNe signal the death throes of massive stars. During the last decade, there have been detections of SN progenitors in the pre- explosion archival Hubble Space Telescope images (see Smartt 2009 for a review). This is by far the most poweful way to directly constrain the SN progenitors, however, only a handful of SN progenitors have been directly detected. Alternatively, one may perform a statistical study to the environments of SNe to derive useful constraints on the progenitors. Many works in the literature have used imaging and spectroscopy of their host galaxies, in particular their closest environment, to characterize properties such as the age and metallicity of the stellar popullations, or the local star formation density. Those seminal works have been the base of Integral Field Spectroscopy (IFS) surveys of SN host galaxies like PISCO and AMUSING. These latter references surveys will be the basis for much of the discussion in this workshop.
+In the context of stellar evolution, core-collapse SNe signal the death throes of massive stars. During the last decade, there have been detections of SN progenitors in the pre-explosion archival Hubble Space Telescope images. This is by far the most poweful way to directly constrain the SN progenitors, however, only a handful of SN progenitors have been directly detected. Alternatively, one may perform a statistical study to the environments of SNe to derive useful constraints on the progenitors. Many works in the literature have used imaging and spectroscopy of their host galaxies, in particular their closest environment, to characterize properties such as the age and metallicity of the stellar popullations, or the local star formation density. Those seminal works have been the base of Integral Field Spectroscopy (IFS) surveys of SN host galaxies like PISCO and AMUSING. These latter references surveys will be the basis for much of the discussion in this workshop.
 
 ## Venue
 
@@ -16,15 +16,13 @@ The workshop will be held at the Department of Physics and Astronomy of Univerti
 
 Hotel:
 
-We have arranged for a block of rooms at the **Residence Inn by Marriott** Pittsburgh, just a few blocks from the meeting location, for the nights of 01/20-01/23. Those wishing to book after registration for the conference has been confirmed, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu with which nights you wish to reserve. She will make reservations and send you a confirmation number with the hotel, along with further travel details. The discounted room rate is $XXX+tax.
-
-(mention double rooms)
+We have arranged for a block of rooms at the **Residence Inn by Marriott** Pittsburgh, just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
 
 Getting to the Hotel/Allen Hall:
 
-There are several options for reaching the Hotel from the Pittsburgh International Airport. A taxi should cost ~$50-60, while Uber or Lyft should be ~$30-40. Super Shuttle is ~$25 for a shared ride van. There is a Port Authority bus line from the airport with stops near the hotel, the 28X ([link](https://www.portauthority.org/rt/28x.pdf)) that runs every half hour from 5:30 am to midnight. The fare is only $2.75, though the trip will take slightly longer than an hour. 
+There are several options for reaching the Hotel from the Pittsburgh International Airport. A taxi should cost ~$50-60, while Uber or Lyft should be ~$30-40. Super Shuttle is ~$25 for a shared ride van. 
 
-(to be changed)  Exit the bus at Forbes and Schenley Drive (by a large Diplodocus dinosaur statue), the Wyndham hotel is then on the opposite side of the Cathedral of Learning, the 42-story building at the center of Pitt's campus.
+There is a Port Authority bus line from the airport with stops near the hotel, the 28X ([link](https://www.portauthority.org/rt/28x.pdf)) that runs every half hour from 5:30 am to midnight. The fare is only $2.75, though the trip will take slightly longer than an hour. Exit the bus at Bellefield Ave at 5th Ave, the Residence Inn by Marriott is at 10 minutes walk.
 
 
 ## Participants
@@ -80,7 +78,7 @@ The day will start with an introductory talk about one of the three main topics 
 ## Talks:
 
 #### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
-####
+#### 
 
 ## Contact
 
