@@ -30,7 +30,6 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 ## Participants
 
 - Joseph Anderson (ESO)
-<!--- - (*) Roberto Cid Fernandes (U Sta. Catarina)--->
 - Meghan Cliento (Pitt)
 - (*) Chris D’Andrea (Penn) 
 - Lluıs Galbany (Pitt)
@@ -41,15 +40,17 @@ There are several options for reaching the Hotel from the Pittsburgh Internation
 - Joseph Lyman (Warwick)
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
-<!--- - (*) Jose Luis Prieto (UDP)--->
 - Alessandro Razza (UChile-ESO)
-<!--- - (*) Michael Rigault (--)--->
 - Sebastián Sánchez (UNAM)
 - Patricia Schady (UBath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
 - (*) Syed A. Uddin (Carnegie)
 - Michael Wood-Vasey (Pitt)
+
+<!--- - (*) Roberto Cid Fernandes (U Sta. Catarina)--->
+<!--- - (*) Jose Luis Prieto (UDP)--->
+<!--- - (*) Michael Rigault (--)--->
 
 (*) not yet confirmed
 
