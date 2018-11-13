@@ -29,10 +29,10 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 
 - Joseph Anderson (ESO)
 - Meghan Cliento (Pitt)
-- (*) Chris D’Andrea (Penn) 
-- Lluıs Galbany (Pitt)
+- Lluís Galbany (Pitt)
 - Jared Hand (Pitt)
 - Phil James (Liverpool)
+- Lisa Kelsey (Soton)
 - Hanindyo Kuncarayakti (Turku)
 - Shu Liu (Pitt)
 - Joseph Lyman (Warwick)
@@ -43,14 +43,17 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Patricia Schady (UBath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
-- (*) Syed A. Uddin (Carnegie)
 - Michael Wood-Vasey (Pitt)
 
-<!--- - (*) Roberto Cid Fernandes (U Sta. Catarina)--->
-<!--- - (*) Jose Luis Prieto (UDP)--->
-<!--- - (*) Michael Rigault (--)--->
-
-(*) not yet confirmed
+<!--- 
+- Kate Maguire (QUB) 
+- Claudia Gutiérrez (Soton)
+- Charlotte Angus (Soton)
+- Jose Luis prieto (UDP)
+- Syed A. Uddin (Carnegie) 
+- Chris D’Andrea (Penn) 
+- Michael Rigault (--) 
+--->
 
 ## Program
 
