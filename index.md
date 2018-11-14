@@ -39,6 +39,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
 - Alessandro Razza (UChile-ESO)
+- Michael Rigault (IN2P3) 
 - Sebastián Sánchez (UNAM)
 - Patricia Schady (UBath)
 - Matthew Smith (Soton)
@@ -49,10 +50,9 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Kate Maguire (QUB) 
 - Claudia Gutiérrez (Soton)
 - Charlotte Angus (Soton)
-- Jose Luis prieto (UDP)
+- Jose Luis Prieto (UDP)
 - Syed A. Uddin (Carnegie) 
 - Chris D’Andrea (Penn) 
-- Michael Rigault (--) 
 --->
 
 ## Program
