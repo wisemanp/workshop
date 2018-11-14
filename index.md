@@ -39,7 +39,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
 - Alessandro Razza (UChile-ESO)
-- Michael Rigault (IN2P3) 
+- Mickael Rigault (IN2P3) 
 - Sebastián Sánchez (UNAM)
 - Patricia Schady (UBath)
 - Matthew Smith (Soton)
