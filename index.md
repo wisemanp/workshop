@@ -46,7 +46,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Mark Sullivan (Soton)
 - Michael Wood-Vasey (Pitt)
 
-Registration form ([here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)).
+Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1))
 
 <!--- 
 - Kate Maguire (QUB) 
