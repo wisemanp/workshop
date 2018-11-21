@@ -38,7 +38,6 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Joseph Lyman (Warwick)
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
-- Alessandro Razza (UChile-ESO)
 - Mickael Rigault (IN2P3) 
 - Sebastián Sánchez (UNAM)
 - Patricia Schady (UBath)
