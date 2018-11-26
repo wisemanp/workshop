@@ -31,12 +31,14 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Charlotte Angus (Soton)
 - Meghan Cliento (Pitt)
 - Lluís Galbany (Pitt)
+- Claudia Gutiérrez (Soton)
 - Jared Hand (Pitt)
 - Phil James (Liverpool)
 - Lisa Kelsey (Soton)
 - Hanindyo Kuncarayakti (Turku)
 - Shu Liu (Pitt)
 - Joseph Lyman (Warwick)
+- Kate Maguire (QUB) 
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
 - Mickael Rigault (IN2P3) 
@@ -50,8 +52,6 @@ Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
 
 <!--- 
 - Phil student
-- Kate Maguire (QUB) 
-- Claudia Gutiérrez (Soton)
 - Jose Luis Prieto (UDP)
 - Syed A. Uddin (Carnegie) 
 - Chris D’Andrea (Penn) 
