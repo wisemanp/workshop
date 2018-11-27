@@ -38,7 +38,6 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Hanindyo Kuncarayakti (Turku)
 - Shu Liu (Pitt)
 - Joseph Lyman (Warwick)
-- Kate Maguire (QUB) 
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
 - Mickael Rigault (IN2P3) 
