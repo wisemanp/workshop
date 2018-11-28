@@ -30,6 +30,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Joseph Anderson (ESO)
 - Charlotte Angus (Soton)
 - Meghan Cliento (Pitt)
+- Chris D’Andrea (Penn) 
 - Lluís Galbany (Pitt)
 - Claudia Gutiérrez (Soton)
 - Jared Hand (Pitt)
@@ -53,7 +54,6 @@ Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
 - Phil student
 - Jose Luis Prieto (UDP)
 - Syed A. Uddin (Carnegie) 
-- Chris D’Andrea (Penn) 
 --->
 
 ## Program
