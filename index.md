@@ -28,6 +28,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 ## Participants
 
 - Joseph Anderson (ESO)
+- Conor Ransome (Liverpool)
 - Charlotte Angus (Soton)
 - Meghan Cliento (Pitt)
 - Chris D’Andrea (Penn) 
@@ -51,7 +52,6 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
 
 <!--- 
-- Phil student
 - Jose Luis Prieto (UDP)
 - Syed A. Uddin (Carnegie) 
 --->
