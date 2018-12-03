@@ -42,6 +42,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Patricia Schady (UBath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
+- Phil Wiseman (Soton)
 - Michael Wood-Vasey (Pitt)
 
 Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
