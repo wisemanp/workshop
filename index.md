@@ -28,6 +28,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 ## Participants
 
 - Joseph Anderson (ESO)
+- Charlotte Angus (Soton)
 - Conor Ransome (Liverpool)
 - Meghan Cliento (Pitt)
 - Chris D’Andrea (Penn) 
@@ -38,6 +39,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Shu Liu (Pitt)
 - Daniel Perrefort (Pitt)
 - Sebastián Sánchez (UNAM)
+- Patricia Schady (UBath)
 - Matthew Smith (Soton)
 - Mark Sullivan (Soton)
 - Michael Wood-Vasey (Pitt)
@@ -45,12 +47,10 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
 
 <!--- 
-- Patricia Schady (UBath)
 - Mickael Rigault (IN2P3) 
 - Joseph Lyman (Warwick)
 - Hector Martınez (Pitt)
 - Phil James (Liverpool)
-- Charlotte Angus (Soton)
 - Claudia Gutiérrez (Soton)
 - Jose Luis Prieto (UDP)
 - Syed A. Uddin (Carnegie) 
