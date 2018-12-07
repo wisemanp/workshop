@@ -41,6 +41,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Shu Liu (Pitt)
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
+- Mickael Rigault (IN2P3) 
 - Sebastián Sánchez (UNAM)
 - Patricia Schady (UBath)
 - Matthew Smith (Soton)
@@ -51,7 +52,6 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
 
 <!--- 
-- Mickael Rigault (IN2P3) 
 - Joseph Lyman (Warwick)
 - Jose Luis Prieto (UDP)
 - Syed A. Uddin (Carnegie) 
