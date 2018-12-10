@@ -39,6 +39,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Lisa Kelsey (Soton)
 - Hanindyo Kuncarayakti (Turku)
 - Shu Liu (Pitt)
+- Joseph Lyman (Warwick)
 - Hector Martınez (Pitt)
 - Daniel Perrefort (Pitt)
 - Mickael Rigault (IN2P3) 
@@ -52,7 +53,6 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
 
 <!--- 
-- Joseph Lyman (Warwick)
 - Jose Luis Prieto (UDP)
 - Syed A. Uddin (Carnegie) 
 --->
