@@ -50,12 +50,7 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 - Phil Wiseman (Soton)
 - Michael Wood-Vasey (Pitt)
 
-Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
-
-<!--- 
-- Jose Luis Prieto (UDP)
-- Syed A. Uddin (Carnegie) 
---->
+<!--- Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)--->
 
 ## Program
 
