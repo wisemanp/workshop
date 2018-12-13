@@ -61,29 +61,45 @@ Registration form [here](https://goo.gl/forms/ExuqCrqCwTyqKBhl1)
 
 The day will start with an introductory talk about one of the three main topics of the workshop. We will have time for 25' (+5') talks, guided discussion, and walking-working excursions (WWE). During the afternoon coffee we will select some topics for discussion in small groups during the WWE, and that will be later discussed in common.
 
-|:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
-|             |  Tuesday 22nd        | |             |  Wednesday 23rd     | |             |  Thursday  24th     |
-|:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
-| 09:00-09:15 | Welcome/introduction | | 09:00-10:00 | Review SNIa env.    | | 09:00-10:00 | Review CC env.      |
-| 09:15-10:15 | Review IFU           | | 10:00-10:15 | Talk                | | 10:00-10:15 | Talk                |
-| 10:15-10:30 | Talk                 | | 10:15-10:30 | Talk                | | 10:15-10:30 | Talk                |
-| 10:30-11:00 | Coffee               | | 10:30-11:00 | Coffee              | | 10:30-11:00 | coffee              |
-| 11:00-11:30 | Talk                 | | 11:00-11:30 | Talk                | | 11:00-11:30 | Talk                |
-| 11:30-12:00 | Talk                 | | 11:30-12:00 | Talk                | | 11:30-12:00 | Talk                |
-| 12:00-13:30 | Lunch                | | 12:00-13:30 | Lunch               | | 12:00-13:30 | Lunch               |
-| 13:30-14:00 | Talk                 | | 13:30-14:00 | Talk                | | 13:30-14:00 | Talk                | 
-| 14:00-14:30 | Talk                 | | 14:00-14:30 | Talk                | | 14:00-14:30 | Discussion          |
-| 14:30-15:00 | Coffee (topic sel.)  | | 14:30-15:00 | Coffee (topic sel.) | | 14:30-15:00 | Coffee              |
-| 15:00-16:30 | WWE                  | | 15:00-16:30 | WWE                 | | 15:00-17:00 | Future directions   |
-| 16:30-17:30 | Discussion           | | 16:30-17:30 | Discussion          | | 17:00-17:15 | Closure             |
-|:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
-| 19:00-      | Workshop dinner      | |             |                     | |             |                     |
-|:------------|:---------------------|:|:------------|:--------------------|:|:------------|:--------------------|
+|:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
+|             |  Tuesday 22nd           | |             |  Wednesday 23rd                | |             |  Thursday  24th              |
+|:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
+| 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Sullivan) | | 09:00-10:00 | Review CC env. (J. Anderson) |
+| 10:00-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 | C. Ransome                   |
+| 10:30-11:00 | Coffee                  | | 10:30-11:00 | Coffee                         | | 10:30-11:00 | coffee                       |
+| 11:00-11:30 | P.James                 | | 11:00-11:30 | L. Galbany                     | | 11:00-11:30 | P. Schady                    |
+| 11:30-12:00 | p. Wiseman              | | 11:30-12:00 | L. Kesley                      | | 11:30-12:00 | H. Kuncarayakti              |
+| 12:00-13:30 | Lunch                   | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
+| 13:30-14:00 | H. Martínez             | | 13:30-14:00 | M. Rigault                     | | 13:30-14:00 | C. Angus                     | 
+| 14:00-14:30 | D .Perrefort et al.     | | 14:00-14:30 | J. Lyman                       | | 14:00-14:30 | Discussion                   |
+| 14:30-15:00 | Coffee (topic sel.)     | | 14:30-15:00 | Coffee (topic sel.)            | | 14:30-15:00 | Coffee                       |
+| 15:00-16:30 | WWE                     | | 15:00-16:30 | WWE                            | | 15:00-16:30 | Future directions            |
+| 16:30-17:30 | Discussion              | | 16:30-17:30 | Discussion                     | | 16:30-16:45 | Closure                      |
+|:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
+| 19:00-      | Workshop dinner         | |             |                                | |             |                              |
+|:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 
 ## Talks:
 
 #### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
-#### 
+#### S. Sánchez:
+#### P. James:
+#### P. Wiseman:
+#### H. Martínez:
+#### D. Perrefort et al.:
+
+#### M. Sullivan:
+#### M. Smith:
+#### L. Galbany:
+#### L. Kesley:
+#### M. Rigault:
+#### J. Lyman:
+
+#### J. Anderson:
+#### C. Ransome
+#### P. Schady:
+#### H. Kuncarayakti:
+#### C. Angus:
 
 ## Contact
 
