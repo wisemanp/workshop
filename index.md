@@ -62,11 +62,11 @@ The day will start with an introductory talk about one of the three main topics 
 | 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Sullivan) | | 09:00-10:00 | Review CC env. (J. Anderson) |
 | 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 | C. Ransome                   |
 | 10:30-11:00 | Coffee                  | | 10:30-11:00 | Coffee                         | | 10:30-11:00 | coffee                       |
-| 11:00-11:30 | P.James                 | | 11:00-11:30 | L. Galbany                     | | 11:00-11:30 | P. Schady                    |
-| 11:30-12:00 | p. Wiseman              | | 11:30-12:00 | L. Kesley                      | | 11:30-12:00 | H. Kuncarayakti              |
+| 11:00-11:30 | P. James                | | 11:00-11:30 | L. Galbany                     | | 11:00-11:30 | P. Schady                    |
+| 11:30-12:00 | P. Wiseman              | | 11:30-12:00 | L. Kesley                      | | 11:30-12:00 | H. Kuncarayakti              |
 | 12:00-13:30 | Lunch                   | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
 | 13:30-14:00 | H. Martínez             | | 13:30-14:00 | M. Rigault                     | | 13:30-14:00 | C. Angus                     | 
-| 14:00-14:30 | D .Perrefort et al.     | | 14:00-14:30 | J. Lyman                       | | 14:00-14:30 | Discussion                   |
+| 14:00-14:30 | D. Perrefort et al.     | | 14:00-14:30 | J. Lyman                       | | 14:00-14:30 | Discussion                   |
 | 14:30-15:00 | Coffee (topic sel.)     | | 14:30-15:00 | Coffee (topic sel.)            | | 14:30-15:00 | Coffee                       |
 | 15:00-16:30 | WWE                     | | 15:00-16:30 | WWE                            | | 15:00-16:30 | Future directions            |
 | 16:30-17:30 | Discussion              | | 16:30-17:30 | Discussion                     | | 16:30-16:45 | Closure                      |
