@@ -60,7 +60,7 @@ The day will start with an introductory talk about one of the three main topics 
 |             |  Tuesday 22nd           | |             |  Wednesday 23rd                | |             |  Thursday  24th              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 | 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Sullivan) | | 09:00-10:00 | Review CC env. (J. Anderson) |
-| 10:00-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 | C. Ransome                   |
+| 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 | C. Ransome                   |
 | 10:30-11:00 | Coffee                  | | 10:30-11:00 | Coffee                         | | 10:30-11:00 | coffee                       |
 | 11:00-11:30 | P.James                 | | 11:00-11:30 | L. Galbany                     | | 11:00-11:30 | P. Schady                    |
 | 11:30-12:00 | p. Wiseman              | | 11:30-12:00 | L. Kesley                      | | 11:30-12:00 | H. Kuncarayakti              |
