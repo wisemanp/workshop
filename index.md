@@ -29,13 +29,11 @@ There is a Port Authority bus line from the airport with stops near the hotel, t
 
 - Joseph Anderson (ESO)
 - Charlotte Angus (Soton)
-- Conor Ransome (Liverpool)
 - Meghan Cliento (Pitt)
 - Chris D’Andrea (Penn) 
 - Lluís Galbany (Pitt)
 - Claudia Gutiérrez (Soton)
 - Jared Hand (Pitt)
-- Phil James (Liverpool)
 - Lisa Kelsey (Soton)
 - Hanindyo Kuncarayakti (Turku)
 - Shu Liu (Pitt)
@@ -60,9 +58,9 @@ The day will start with an introductory talk about one of the three main topics 
 |             |  Tuesday 22nd           | |             |  Wednesday 23rd                | |             |  Thursday  24th              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 | 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Sullivan) | | 09:00-10:00 | Review CC env. (J. Anderson) |
-| 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 | C. Ransome                   |
+| 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 |                    |
 | 10:30-11:00 | Coffee                  | | 10:30-11:00 | Coffee                         | | 10:30-11:00 | coffee                       |
-| 11:00-11:30 | P. James                | | 11:00-11:30 | L. Galbany                     | | 11:00-11:30 | P. Schady                    |
+| 11:00-11:30 |                         | | 11:00-11:30 | L. Galbany                     | | 11:00-11:30 | P. Schady                    |
 | 11:30-12:00 | P. Wiseman              | | 11:30-12:00 | L. Kesley                      | | 11:30-12:00 | H. Kuncarayakti              |
 | 12:00-13:30 | Lunch                   | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
 | 13:30-14:00 | H. Martínez             | | 13:30-14:00 | M. Rigault                     | | 13:30-14:00 | C. Angus                     | 
@@ -78,7 +76,6 @@ The day will start with an introductory talk about one of the three main topics 
 
 #### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
 #### S. Sánchez:
-#### P. James:
 #### P. Wiseman:
 #### H. Martínez:
 #### D. Perrefort et al.:
@@ -91,7 +88,6 @@ The day will start with an introductory talk about one of the three main topics 
 #### J. Lyman:
 
 #### J. Anderson:
-#### C. Ransome
 #### P. Schady:
 #### H. Kuncarayakti:
 #### C. Angus:
