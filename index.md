@@ -76,21 +76,21 @@ The day will start with an introductory talk about one of the three main topics 
 
 #### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
 #### S. Sánchez:
-#### P. Wiseman:
-#### H. Martínez:
+#### P. Wiseman: Host Galaxies of Supernovae in the Dark Energy Survey
+#### H. Martínez: Recovering lost light: discovery of supernova remnants with integral field spectroscopy data
 #### D. Perrefort et al.:
 
 #### M. Sullivan:
-#### M. Smith:
-#### L. Galbany:
-#### L. Kesley:
+#### M. Smith: Host galaxy properties of type Ia supernova as determined by the Dark Energy Survey
+#### L. Galbany: SNIa local environment with IFU
+#### L. Kesley: The Host Galaxies of Type Ia Supernovae in the Dark Energy Survey
 #### M. Rigault:
 #### J. Lyman:
 
-#### J. Anderson:
-#### P. Schady:
-#### H. Kuncarayakti:
-#### C. Angus:
+#### J. Anderson: 
+#### P. Schady: Inferring the progenitor mass of explosive transients through their environment
+#### H. Kuncarayakti: Nebular spectroscopy from AMUSING (P100-P101 recap) + ASASSN-14dd
+#### C. Angus: Superluminous Supernova Hosts
 
 ## Contact
 
