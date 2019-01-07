@@ -85,9 +85,9 @@ The day will start with an introductory talk about one of the three main topics 
 #### L. Galbany: SNIa local environment with IFU
 #### L. Kesley: The Host Galaxies of Type Ia Supernovae in the Dark Energy Survey
 #### M. Rigault:
-#### J. Lyman:
+#### J. Lyman: The SIGNALS survey: a census of local star-formation
 
-#### J. Anderson: 
+#### J. Anderson: Core-collapse supernova environments
 #### P. Schady: Inferring the progenitor mass of explosive transients through their environment
 #### H. Kuncarayakti: Nebular spectroscopy from AMUSING (P100-P101 recap) + ASASSN-14dd
 #### C. Angus: Superluminous Supernova Hosts
