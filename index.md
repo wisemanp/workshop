@@ -95,6 +95,6 @@ The day will start with an introductory talk about one of the three main topics 
 
 ## Contact
 
-cmc138(at)pitt(dot)edu
+Cynthia.ferich(at)pitt(dot)edu
 
 llgalbany(at)pitt(dot)edu
