@@ -58,16 +58,16 @@ The day will start with an introductory talk about one of the three main topics 
 |             |  Tuesday 22nd           | |             |  Wednesday 23rd                | |             |  Thursday  24th              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 | 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Sullivan) | | 09:00-10:00 | Review CC env. (J. Anderson) |
-| 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 |                    |
+| 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 | H. Kuncarayakti              |
 | 10:30-11:00 | Coffee                  | | 10:30-11:00 | Coffee                         | | 10:30-11:00 | coffee                       |
-| 11:00-11:30 |                         | | 11:00-11:30 | L. Galbany                     | | 11:00-11:30 | P. Schady                    |
-| 11:30-12:00 | P. Wiseman              | | 11:30-12:00 | L. Kesley                      | | 11:30-12:00 | H. Kuncarayakti              |
+| 11:00-11:30 |                         | | 11:00-11:30 | L. Kesley                      | | 11:00-11:30 | P. Schady                    |
+| 11:30-12:00 | P. Wiseman              | | 11:30-12:00 | J. Lyman                       | | 11:30-12:00 | C. Angus                     |
 | 12:00-13:30 | Lunch                   | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
-| 13:30-14:00 | H. Martínez             | | 13:30-14:00 | M. Rigault                     | | 13:30-14:00 | C. Angus                     | 
-| 14:00-14:30 | D. Perrefort et al.     | | 14:00-14:30 | J. Lyman                       | | 14:00-14:30 | Discussion                   |
-| 14:30-15:00 | Coffee (topic sel.)     | | 14:30-15:00 | Coffee (topic sel.)            | | 14:30-15:00 | Coffee                       |
-| 15:00-16:30 | WWE                     | | 15:00-16:30 | WWE                            | | 15:00-16:30 | Future directions            |
-| 16:30-17:30 | Discussion              | | 16:30-17:30 | Discussion                     | | 16:30-16:45 | Closure                      |
+| 13:30-14:00 | L. Galbany              | | 13:30-14:00 | M. Rigault                     | | 13:30-14:30 | Discussion                   |
+| 14:00-14:30 | H. Martinez et al.      | | 14:00-14:30 | L. Galbany                     | | 14:30-15:00 | Coffee                       |
+| 14:30-15:00 | Coffee (topic sel.)     | | 14:30-15:00 | Coffee (topic sel.)            | | 15:00-16:00 | Future directions/Closure    |
+| 15:00-16:30 | WWE                     | | 15:00-16:30 | WWE                            | |             |                              |
+| 16:30-17:30 | Discussion              | | 16:30-17:30 | Discussion                     | |             |                              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 | 19:00-      | Workshop dinner         | |             |                                | |             |                              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
@@ -75,21 +75,22 @@ The day will start with an introductory talk about one of the three main topics 
 ## Talks:
 
 #### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
-#### S. Sánchez:
+#### S. Sánchez: Review of IFU studies of Nearby galaxies
 #### P. Wiseman: Host Galaxies of Supernovae in the Dark Energy Survey
+#### L. Galbany: SN IFU surveys: PISCO and AMUSING
 #### H. Martínez: Recovering lost light: discovery of supernova remnants with integral field spectroscopy data
 #### D. Perrefort et al.:
 
-#### M. Sullivan:
+#### M. Sullivan: Type Ia supernova environments
 #### M. Smith: Host galaxy properties of type Ia supernova as determined by the Dark Energy Survey
-#### L. Galbany: SNIa local environment with IFU
 #### L. Kesley: The Host Galaxies of Type Ia Supernovae in the Dark Energy Survey
-#### M. Rigault:
 #### J. Lyman: The SIGNALS survey: a census of local star-formation
+#### M. Rigault:
+#### L. Galbany: SNIa local environment with IFU
 
 #### J. Anderson: Core-collapse supernova environments
-#### P. Schady: Inferring the progenitor mass of explosive transients through their environment
 #### H. Kuncarayakti: Nebular spectroscopy from AMUSING (P100-P101 recap) + ASASSN-14dd
+#### P. Schady: Inferring the progenitor mass of explosive transients through their environment
 #### C. Angus: Superluminous Supernova Hosts
 
 ## Contact
