@@ -57,14 +57,14 @@ The day will start with an introductory talk about one of the three main topics 
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
 |             |  Tuesday 22nd           | |             |  Wednesday 23rd                | |             |  Thursday  24th              |
 |:------------|:------------------------|:|:------------|:-------------------------------|:|:------------|:-----------------------------|
-| 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Sullivan) | | 09:00-10:00 | Review CC env. (J. Anderson) |
-| 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | M. Smith                       | | 10:00-10:30 | H. Kuncarayakti              |
+| 09:00-09:30 | Welcome/introduction    | | 09:00-10:00 | Review SNIa env. (M. Smith)    | | 09:00-10:00 | Review CC env. (J. Anderson) |
+| 09:30-10:30 | Review IFU (S. Sánchez) | | 10:00-10:30 | L. Kesley                      | | 10:00-10:30 | H. Kuncarayakti              |
 | 10:30-11:00 | Coffee                  | | 10:30-11:00 | Coffee                         | | 10:30-11:00 | coffee                       |
-| 11:00-11:30 | P. Wiseman              | | 11:00-11:30 | L. Kesley                      | | 11:00-11:30 | P. Schady                    |
-| 11:30-12:00 | L. Galbany              | | 11:30-12:00 | J. Lyman                       | | 11:30-12:00 | C. Angus                     |
+| 11:00-11:30 | P. Wiseman              | | 11:00-11:30 | M. Rigault                     | | 11:00-11:30 | P. Schady                    |
+| 11:30-12:00 | L. Galbany              | | 11:30-12:00 | L. Galbany                     | | 11:30-12:00 | C. Gutierrez                 |
 | 12:00-13:30 | Lunch                   | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
-| 13:30-14:00 | H. Martinez             | | 13:30-14:00 | M. Rigault                     | | 13:30-14:30 | Discussion                   |
-| 14:00-14:30 | D. Perrenfort et al.    | | 14:00-14:30 | L. Galbany                     | | 14:30-15:00 | Coffee                       |
+| 13:30-14:00 | H. Martinez             | | 13:30-14:00 | J. Lyman                       | | 13:30-14:30 | Discussion                   |
+| 14:00-14:30 | D. Perrenfort et al.    | | 14:00-14:30 | C. Angus                       | | 14:30-15:00 | Coffee                       |
 | 14:30-15:00 | Coffee (topic sel.)     | | 14:30-15:00 | Coffee (topic sel.)            | | 15:00-16:00 | Future directions/Closure    |
 | 15:00-16:30 | WWE                     | | 15:00-16:30 | WWE                            | |             |                              |
 | 16:30-17:30 | Discussion              | | 16:30-17:30 | Discussion                     | |             |                              |
@@ -77,21 +77,21 @@ The day will start with an introductory talk about one of the three main topics 
 #### L. Galbany: [Welcome and introduction](https://github.com/amusing-muse/workshop/talks/).
 #### S. Sánchez: Review of IFU studies of Nearby galaxies
 #### P. Wiseman: Host Galaxies of Supernovae in the Dark Energy Survey
-#### L. Galbany: SN IFU surveys: PISCO and AMUSING
+#### L. Galbany: SN IFU surveys: PISCO / AMUSING / MaNGA / HiKIDS
 #### H. Martínez: Recovering lost light: discovery of supernova remnants with integral field spectroscopy data
-#### D. Perrefort et al.:
+#### J. Hand: Comparison between photometric and spectroscopic estimation of galaxy parameters
 
-#### M. Sullivan: Type Ia supernova environments
 #### M. Smith: Host galaxy properties of type Ia supernova as determined by the Dark Energy Survey
 #### L. Kesley: The Host Galaxies of Type Ia Supernovae in the Dark Energy Survey
-#### J. Lyman: The SIGNALS survey: a census of local star-formation
-#### M. Rigault:
+#### M. Rigault: Consequences of SNIa Environmental Bias for Cosmology
 #### L. Galbany: SNIa local environment with IFU
+#### J. Lyman: The SIGNALS survey: a census of local star-formation
+#### C. Angus: Superluminous Supernova Hosts
 
 #### J. Anderson: Core-collapse supernova environments
 #### H. Kuncarayakti: Nebular spectroscopy from AMUSING (P100-P101 recap) + ASASSN-14dd
 #### P. Schady: Inferring the progenitor mass of explosive transients through their environment
-#### C. Angus: Superluminous Supernova Hosts
+#### C. Gutierrez: low-L SNII hosts
 
 ## Contact
 
