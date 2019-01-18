@@ -16,7 +16,7 @@ The workshop will be held at the Department of Physics and Astronomy of Univerti
 
 Hotel:
 
-We have arranged for a block of rooms at the ([**Residence Inn by Marriott Pittsburgh University/Medical center**](https://www.google.com/maps/place/Residence+Inn+by+Marriott+Pittsburgh+University%2FMedical+Center/@40.4512219,-79.9515301,16z/data=!4m5!3m4!1s0x0:0xd38afc9188b28eeb!8m2!3d40.4539194!4d-79.9550173)), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
+We have arranged for a block of rooms at the [**Residence Inn by Marriott Pittsburgh University/Medical center**](https://www.google.com/maps/place/Residence+Inn+by+Marriott+Pittsburgh+University%2FMedical+Center/@40.4512219,-79.9515301,16z/data=!4m5!3m4!1s0x0:0xd38afc9188b28eeb!8m2!3d40.4539194!4d-79.9550173), just a few blocks from the meeting location, from 01/21 to 01/23 (3 nights). Please, do not contact the hotel directly. Instead, please email Cindy Cercone at cmc138(at)pitt(dot)edu, she will make reservations and send you a confirmation number with the hotel, along with further travel details. 
 
 Getting to the Hotel/Allen Hall:
 
