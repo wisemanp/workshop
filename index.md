@@ -64,7 +64,7 @@ The day will start with an introductory talk about one of the three main topics 
 | 11:30-12:00 | L. Galbany              | | 11:30-12:00 | L. Galbany                     | | 11:30-12:00 | C. Gutierrez                 |
 | 12:00-13:30 | Lunch                   | | 12:00-13:30 | Lunch                          | | 12:00-13:30 | Lunch                        |
 | 13:30-14:00 | H. Martinez             | | 13:30-14:00 | J. Lyman                       | | 13:30-14:30 | Discussion                   |
-| 14:00-14:30 | D. Perrenfort et al.    | | 14:00-14:30 | C. Angus                       | | 14:30-15:00 | Coffee                       |
+| 14:00-14:30 | J. Hand                 | | 14:00-14:30 | C. Angus                       | | 14:30-15:00 | Coffee                       |
 | 14:30-15:00 | Coffee (topic sel.)     | | 14:30-15:00 | Coffee (topic sel.)            | | 15:00-16:00 | Future directions/Closure    |
 | 15:00-16:30 | WWE                     | | 15:00-16:30 | WWE                            | |             |                              |
 | 16:30-17:30 | Discussion              | | 16:30-17:30 | Discussion                     | |             |                              |
